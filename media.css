@@ -1,0 +1,429 @@
+@media (min-width: 320px) and (max-width: 767px){ 
+
+
+    .media-bannner {
+        width: 100%;
+        background-size: contain;
+    }
+    .section-blue {
+        padding-top: 135px;
+        padding-bottom: 0px;
+    }
+    section.sect-media1 {
+        padding: 0 0;
+    }
+    h2.strategic {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .col-md-5.molly-align {
+        margin: 40px 0;
+    }
+    section.sect-media2 {
+        margin: 50px 0;
+    }
+    .upper-forte h4 {
+        margin-top: 40px;
+        font-size: 40px;
+    }
+    .upper-forte p {
+        font-size: 17px;
+    }
+    a.deeperr {
+        padding: 21px 9px;
+    }
+    .item {
+        width: 60%;
+        margin: 0 auto;
+    }
+    h2.create-works {
+        font-size: 44px;
+        line-height: 65px;
+    }
+    p.para-passionate {
+        line-height: 37px;
+    }
+    .outer-heading {
+        text-align: center;
+    }
+
+    .outer-ourwork {
+        text-align: center;
+    }
+    .outer-stayconnect {
+        text-align: center;
+    }
+    .iconn {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .about-banner {
+        background-image: url(img/group-image.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+        background-size: cover;
+        padding-top: 250px;
+        padding-bottom: 0px;
+    }
+    .outer-industries-headingg h1 {
+        font-size: 28px;
+    }    
+    .passionate {
+        color: #ffffff;
+        padding-left: 15px;
+        padding-right: 0px !important;
+    }
+    .molly-back {
+        background-color: #0F86C8;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .image {
+        margin-top: 20px;
+    }
+    .heading-kansas {
+        margin-top: 18%;
+    }
+    .outer-content-ann {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .outer-industries-headingg {
+        padding: 20px 0;
+    }
+    .outer-letTalk img {
+        width: 100%;
+    }
+    button#btn-submit{
+        margin-bottom: 20px;
+    }
+
+    .contact-banner{
+        padding-bottom: 0px;
+    }
+    .here-girl-banner{
+        padding-bottom: 0px;
+    }
+    .outer-industries-heading h1 {
+        font-size: 25px;
+    }
+    section.sect-service3 {
+        padding: 0px 0;
+    }
+    .main-heading-talkkk h1 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    img.tb1-img {
+        margin-top: 30px;
+    }
+
+    .outer-head-reach h4 {
+        font-size: 20px;
+    }
+    .main-heading-talkk h1 {
+        font-size: 26px;
+        line-height: 35px;
+        margin-top: 30px;
+    }
+    .head-work p {
+        font-size: 20px;
+    }
+    .head-work .para{
+        font-size: 16px;
+    }
+    .Molly-banner{
+        padding-bottom: 0px;
+        margin-top: 20px;
+    }
+    .main-heading-talk h1 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    div#line-bold {
+        display: none;
+    }
+    h1.dedicatedd {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .head-work h1 {
+        font-size: 28px;
+
+    }
+    h3.head-digital {
+        font-size: 14px;
+    }
+    .inner-img{
+        padding-bottom: 0px;
+    }
+    .img-wrapper {
+        height: 200px;
+    }
+
+    div#navbarSupportedContent {
+        margin-top: 25px;
+    }
+    .navbar-nav {
+        gap: 5px !important;
+    }
+    .Logo {
+        position: absolute;
+        top: 1px;
+        left: -2px;
+    }
+
+    img.img-ready {
+        width: 100%;
+    }
+    section.sect2 {
+        margin-top: 10px;
+    }
+    section.sect-service1 {
+        margin-top: 20px;
+    }
+    .main-heading-talkkk {
+        margin-top: 10px;
+    }
+    div#line-boldd {
+        display: none;
+    }
+    div#line-bolddd {
+        display: none;
+    }
+    div#linee-bolddd {
+        display: none;
+    }
+    .client-banner {
+        padding-bottom: 0px;
+    }
+
+    section.sect-clients1 {
+        display: none;
+    }
+    section.sect3 {
+        padding-top: 0px;
+    }
+    section.sect-industries1 {
+        padding: 0px 0;
+    }
+
+    .opelika-banner{
+        padding-bottom: 0px;
+    }
+    h1.heading-opelika {
+        font-size: 30px;
+    }
+    body.date-20231012.en_US.ltr.site-center-aligned.site-as-giant-card.webkit.webkit-537 {
+        display: none;
+    }
+    iframe {
+        width: 100%;
+        height: auto;
+    }
+    section.sect-opelika2 {
+        margin-top: 50px;
+    }
+    .btn333 {
+        margin-bottom: 30px;
+    }
+
+    .auburn-banner{
+        padding-bottom: 0px;
+    }
+    h2.heading-creation {
+        text-align: center;
+    }
+
+    .donald-banner{
+        padding-bottom: 0px;
+    }
+    .outer-btn {
+        margin-bottom: 20px;
+    }
+    .landscaping-banner{
+        padding-bottom: 0px;
+    }
+    .julie-banner{
+        padding-bottom: 0px;
+    }
+    .flowerStore-banner{
+        padding-bottom: 0px;
+    }
+    .outer-industries-heading {
+        margin-top: 20px;
+    }
+    .roccos-banner{
+        padding-bottom: 0px;
+    }
+    .text {
+        font-size: 14px;
+        color: #ffffff;
+    }
+    .Careers-Banner{
+        padding-bottom: 0px;
+    }
+    h1.heading-opelikaaa {
+        font-size: 25px;
+    }
+    .heading-seeOpen h2 {
+        font-size: 25px;
+    }
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px){ 
+
+
+    .text {
+        display: none;
+    }
+    .section-blue {
+        padding-top: 300px;
+        padding-bottom: 23px;
+    }
+    .navbar-nav {
+        gap: 0px !important;
+    }
+.img-ready{
+    width: 85%;
+    height: max-content;
+    margin-top: -32px;
+}
+.inner-imggg3 {
+    padding-top: 190px;
+    padding-bottom: 0px;
+}
+.inner-imgg2 {
+    padding-top: 190px;
+    padding-bottom: 0px;
+}
+.inner-imgggggg {
+    padding-top: 190px;
+    padding-bottom: 0px;   
+}
+.inner-imgggg4 {
+    padding-top: 190px;
+    padding-bottom: 0px;
+}
+.inner-imgggg5 {
+    padding-top: 190px;
+    padding-bottom: 0px;
+}
+.inner-imgggg6 {
+    padding-top: 190px;
+    padding-bottom: 0px;
+}
+.inner-imgggg7 {
+    padding-top: 190px;
+    padding-bottom: 0px;
+}
+.inner-imgggg8 {
+    padding-top: 190px;
+    padding-bottom: 0px;
+}
+.inner-imgggg9 {
+    padding-top: 190px;
+    padding-bottom: 0px;
+}
+.about-banner {
+    padding-top: 250px;
+    padding-bottom: 0px;
+}
+.outer-industries-headingg h1 {
+    font-size: 35px;
+}
+
+.molly-back {
+    background-color: #0F86C8;
+    padding-top: 78px;
+    padding-bottom: 50px;
+}
+.passionate {
+    color: #ffffff;
+    padding-left: 15px;
+    padding-right: 0 !important;
+}
+
+.client-banner{
+    padding-bottom: 0px; 
+}
+.here-girl-banner{
+    padding-bottom: 0px;
+}
+.outer-industries-heading h1 {
+    font-size: 45px;
+}
+img.tb1-img {
+    width: 90%;
+    margin-top: 100px;
+}
+.outer-head-reach h4 {
+    line-height: 32px;
+}
+.Molly-banner{
+    padding-bottom: 30px;
+}
+.main-heading-talk p {
+    line-height: 30px;
+}
+h1.dedicatedd {
+    font-size: 40px;
+}
+.inner-imgg{
+    padding-bottom: 0px;
+}
+.inner-img{
+    padding-bottom: 0px;
+}
+.img-wrapper {
+    height: 200px;
+}
+
+h2.strategic {
+    font-size: 35px;
+    line-height: 45px;
+    margin-top: 0px;
+}
+iframe {
+    width: 100%;
+    height: 400px;
+}
+h1.heading-opelika {
+    font-size: 35px;
+}
+section.sect-service3 {
+    padding: 50px 0;
+}
+.main-heading-talkkk {
+    margin-top: 0px;
+}
+div#line-boldd {
+    width: 100%;
+}
+div#line-bolddd {
+    width: 100%;
+}
+
+.Careers-Banner{
+    padding-bottom: 0px;
+}
+h1.heading-opelikaaa {
+    font-size: 36px;
+}
+
+
+
+
+}

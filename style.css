@@ -1,0 +1,1785 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'open sans', Helvetica, Arial, sans-serif !important;
+
+}
+
+body p {
+  margin: 0.85em 0;
+}
+
+/* ------------------------------------ Navbar css open ------------------------------------ */
+
+.Logo {
+  max-width: 65%;
+  max-height: 116px;
+}
+a.nav-link {
+  font-size: 16px;
+  font-weight: 700;
+  color: #333 !important;
+}
+a.nav-link:hover {
+  border-bottom: 4px solid #0f86c8;
+  /* transition: 0.5s; */
+}
+.navbar-expand-lg .navbar-collapse {
+  justify-content: flex-end;
+  gap: 5px;
+}
+.navbar-nav {
+  gap: 18px !important;
+}
+.btn {
+  border: 2px solid;
+  border-radius: 2px;
+  padding: 8px;
+  color: #333 !important;
+  border-color: #333;
+  font-weight: 700;
+}
+.btn:hover {
+  background-color: #0f86c8;
+  border-color: #0f86c8;
+  color: #fff !important;
+  transition: 0.5s !important;
+}
+
+/* ------------------------------------ Navbar css close ------------------------------------ */
+
+
+
+
+
+/* ------------------------------------ Section One css open ------------------------------------ */
+
+section.sect1 {
+  padding: 30px 0;
+}
+
+.head-work {
+  text-align: center;
+}
+
+.head-work h1 {
+  font-size: 70px;
+  font-weight: 700;
+  color: #000;
+}
+
+.head-work p {
+  font-size: 32px;
+  font-weight: 400;
+  color: #000;
+}
+
+p.para {
+  font-size: 16px;
+  text-align: justify;
+  text-align-last: center;
+  color: #000;
+}
+
+/* ------------------------------------ Section One css close ------------------------------------ */
+
+
+/* ------------------------------------ Section Two css open ------------------------------------ */
+
+
+h3.head-digital {
+  font-size: 18px;
+  text-align: center;
+  line-height: 28px;
+  color: black;
+}
+
+section.sect2 {
+  margin-top: 60px;
+}
+
+.head-digital span {
+  color: #c1df16;
+}
+
+.img-wrapper {
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+h3.opelika {
+  font-size: 20px;
+  font-weight: 700;
+  color: #000;
+  margin: 15px;
+  font-family: poppins, Helvetica, Arial, sans-serif;
+}
+
+.inner-img:hover {
+  transform: scale(1.1);
+}
+
+.img-wrapper {
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.inner-img {
+  background-image: url(img/Opelika-City-Schools-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  transition: 0.5s;
+}
+
+.inner-imgg {
+  background-image: url(img/Auburn-United-Methodist-Church-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  transition: 0.5s;
+}
+
+.inner-imgg:hover {
+  transform: scale(1.1);
+}
+
+.inner-imggg {
+  background-image: url(img/Storybook-Farm-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  transition: 0.5s;
+}
+
+.inner-imggg:hover {
+  transform: scale(1.1);
+}
+
+.inner-imgggg {
+  background-image: url(img/Acuff-Weekley-Group-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  transition: 0.5s;
+}
+
+.inner-imgggg:hover {
+  transform: scale(1.1);
+}
+
+.inner-img5 {
+  background-image: url(img/Jule-Collins-Smith-Museum-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  transition: 0.5s;
+}
+
+.inner-img5:hover {
+  transform: scale(1.1);
+}
+
+.inner-img6 {
+  background-image: url(img/The-Flower-Store-Auburn-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  transition: 0.5s;
+}
+
+.inner-img6:hover {
+  transform: scale(1.1);
+}
+
+.inner-img7 {
+  background-image: url(img/Southern-Shutter-Home-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  transition: 0.5s;
+}
+
+.inner-img7:hover {
+  transform: scale(1.1);
+}
+
+.inner-img8 {
+  background-image: url(img/Here-Molly-Girl-1-2-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  transition: 0.5s;
+}
+
+.inner-img8:hover {
+  transform: scale(1.1);
+}
+
+.inner-img9 {
+  background-image: url(img/Advancing-Sight-Network-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  transition: 0.5s;
+}
+
+.inner-img9:hover {
+  transform: scale(1.1);
+}
+
+.inner-img10 {
+  background-image: url(img/Rane-Culinary-Science-Center-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  transition: 0.5s;
+}
+
+.inner-img10:hover {
+  transform: scale(1.1);
+}
+
+.outer-btn {
+  align-items: center;
+  text-align: center;
+  margin-top: 25px;
+}
+
+button.load-more {
+  background-color: #0F86C8;
+  color: #fff;
+  border: none;
+  padding: 20px 20px;
+  text-transform: uppercase;
+  font-size: 14px;
+  transition: .2s ease-in-out 0s;
+}
+
+button.load-more:hover {
+  cursor: pointer;
+  transform: scale(1.25);
+  background: #0F86C8;
+  color: #fff;
+}
+
+/* ------------------------------------ Section Two css close ------------------------------------ */
+
+
+
+
+
+/* ------------------------------------ Section Three css open ------------------------------------ */
+
+
+section.sect3 {
+  padding-top: 60px;
+}
+
+.footer1 {
+  background-image: url(img/Footer-1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.outer-letTalk {
+  text-align: center;
+}
+
+.upper-color {
+  background-color: #0f86c861;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+
+/* ------------------------------------ Section Three css close ------------------------------------ */
+
+
+
+
+
+
+
+/* ------------------------------------ Footer css code open ------------------------------------ */
+
+section.footer {
+  background-color: #0f86c8d4;
+  padding: 35px 0;
+}
+
+.outer-heading h3 strong {
+  font-size: 22px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.outer-heading p {
+  color: #ffdf;
+}
+
+.outer-heading a {
+  color: #fff;
+}
+
+.outer-heading a {
+  list-style: none;
+  text-decoration: none;
+}
+
+.outer-ourwork a {
+  font-size: 22px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.outer-ourwork a:hover {
+  list-style: none;
+  text-decoration: none;
+}
+
+.outer-ourwork h3 {
+  font-size: 22px;
+  color: #fff;
+  font-weight: 700;
+
+}
+
+.outer-ourwork p a {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 400;
+}
+
+.iconn {
+  display: flex;
+  gap: 14px;
+  padding-bottom: 20px;
+}
+
+i.fa {
+  background-color: #f6faff;
+  border-radius: 20px;
+  padding: 5px 10px;
+  color: #000;
+}
+
+i.fa:hover {
+  background-color: #f6faff;
+  border-radius: 20px;
+  padding: 5px 10px;
+  color: #0F86C8;
+}
+
+.outer-stayconnect h3 {
+  font-size: 22px;
+  color: #fff;
+  font-weight: 700;
+  padding-bottom: 7px;
+}
+
+.outer-stayconnect p a {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 400;
+}
+
+.outer-stayconnect p a:hover {
+  list-style: none;
+  text-decoration: none;
+}
+
+section.bottom-footer {
+  background-color: #0F86C8;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+span.copyright {
+  float: left;
+  font-size: 12px;
+  color: #fff;
+}
+
+
+
+
+/* ------------------------------------ Footer css code close ------------------------------------ */
+
+
+
+/* ------------------------------- Service Section One css code Open ---------------------------- */
+
+.Molly-banner {
+  background-image: url(img/Here-Molly-Girl-1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+
+
+
+/* ------------------------------- Service Section One css code close ---------------------------- */
+
+
+/* ------------------------------- Service Section two css code open ---------------------------- */
+section.sect-service2 {
+  padding: 50px 0;
+}
+
+img.tb1-img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.main-heading-talk h1 {
+  font-size: 4vw;
+  font-weight: 700;
+}
+
+.container.const {
+  max-width: 1206px;
+}
+
+h1.dedicatedd {
+  font-size: 38px;
+  font-weight: 700;
+  font-family: poppins, Helvetica, Arial, sans-serif;
+}
+
+div#line-bold {
+  border: 1px solid #000;
+  margin-top: 70px;
+  width: 100%;
+}
+
+/* ------------------------------- Service Section two css code close ---------------------------- */
+
+
+
+/* ------------------------------- Service Section three css code open ---------------------------- */
+
+section.sect-service3 {
+  padding: 70px 0;
+}
+
+.main-heading-talkk h1 {
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 60px;
+}
+
+button.btn-view {
+  border: 1px solid black;
+  background-color: #fff;
+  font-size: 20px;
+  transition: all .4s ease-in-out;
+  padding: 8px 15px;
+  margin-top: 25px;
+}
+
+button.btn-view:hover {
+  padding: 8px 15px;
+  font-size: 20px;
+  border: none;
+  background-color: #0F86C8;
+  color: #fff;
+  transition: all .4s ease-in-out;
+}
+
+ul.ordered-list-item {
+  padding: 5px 24px;
+  margin: 0 0 0 0px;
+}
+
+ul.ordered-list-item li {
+  margin-top: 10px;
+}
+
+p.marketing-para {
+  margin-top: 75px;
+}
+
+section.sect-servicee {
+  padding: 30px 0;
+}
+
+/* ------------------------------- Service Section three css code close ---------------------------- */
+
+
+
+
+
+/* ------------------------------- Industries Section one css code open ---------------------------- */
+
+.here-girl-banner {
+  background-image: url(img/Here-Molly-Girl-1-1500x550\ \(1\).jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+
+
+/* ------------------------------- Industries Section one css code close ---------------------------- */
+
+
+
+/* ------------------------------- Industries Section two css code open ---------------------------- */
+
+section.sect-industries1 {
+  padding: 40px 0;
+}
+
+.outer-industries-heading {
+  text-align: center;
+}
+
+.outer-industries-heading h1 {
+  font-size: 4vw;
+  font-weight: 700;
+  color: #000;
+}
+
+.outer-industries-heading h3 {
+  margin-top: 20px;
+}
+
+.outer-industries-heading h3 span {
+  font-size: 18px;
+  font-weight: 700;
+  color: #000;
+}
+
+span.NormalTextRun {
+  color: #888A8C;
+}
+
+
+/* ------------------------------- Industries Section two css code close ---------------------------- */
+
+
+
+
+/* ------------------------------- Industries Section three css code open ---------------------------- */
+
+.main-heading-talkkk h1 {
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 60px;
+}
+
+.main-heading-talkkk {
+  margin-top: 80px;
+}
+
+
+
+/* ------------------------------- Industries Section three css code close ---------------------------- */
+
+
+
+
+/* ------------------------------- Industries Section four css code open ---------------------------- */
+
+.outer-head-reach p {
+  color: #888A8C;
+  font-size: 16px;
+}
+
+.outer-head-reach h4 {
+  font-size: 30px;
+  color: #000;
+  font-weight: 700;
+  line-height: 10px;
+}
+
+p.para-variety {
+  color: #000;
+  font-size: 15px;
+  margin-top: 21px;
+}
+
+div#line-boldd {
+  border: 1px solid #000;
+  margin-top: 30px;
+  width: 97%;
+}
+
+div#line-bolddd {
+  border: 1px solid #000;
+  margin-top: 40px;
+  width: 97%;
+}
+
+section.sect-service4 {
+  padding: 17px 0;
+}
+
+div#linee-bolddd {
+  border: 1px solid #888A8C;
+  margin-top: 100px;
+  width: 97%;
+}
+
+/* ------------------------------- Industries Section four css code close ---------------------------- */
+
+
+
+
+
+/* ------------------------------- Clients Section one css code open ---------------------------- */
+
+
+.client-banner {
+  background-image: url(img/khizerrrrr.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+
+/* ------------------------------- Clients Section one css code close ---------------------------- */
+
+
+
+
+/* ------------------------------- Clients Section two css code open ---------------------------- */
+
+img.logo-auburn {
+  width: 100%;
+  transition: 0.5s;
+}
+
+img.logo-auburn:hover {
+  transform: scale(1.1);
+}
+
+section.sect-clients1 {
+  padding: 30px 0;
+}
+
+
+/* ------------------------------- Clients Section two css code close ---------------------------- */
+
+
+/* ------------------------------- About Section one css code open ---------------------------- */
+
+.about-banner {
+  background-image: url(img/group-image.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+/* ------------------------------- About Section one css code close ---------------------------- */
+
+
+
+
+/* ------------------------------- About Section two css code open ---------------------------- */
+
+.outer-industries-headingg h1 {
+  font-size: 70px;
+  font-weight: 700;
+  color: #000;
+
+}
+
+.outer-industries-headingg {
+  text-align: center;
+}
+
+/* ------------------------------- About Section two css code close ---------------------------- */
+
+
+
+/* ------------------------------- About Section three css code open ---------------------------- */
+
+.molly-556 {
+  background-image: url(img/Here-Molly-Girls-556.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 130px;
+  padding-bottom: 280px;
+}
+
+.molly-back {
+  background-color: #0F86C8;
+  padding-top: 100px;
+  padding-bottom: 250px;
+}
+
+.passionate strong {
+  font-size: 35px;
+  color: #ffffff;
+}
+
+.passionate {
+  color: #ffffff;
+  padding-left: 15px;
+  padding-right: 150px !important;
+}
+
+/* ------------------------------- About Section three css code close ---------------------------- */
+
+
+
+
+
+/* ------------------------------- About Section four css code open ---------------------------- */
+
+
+
+.containerr {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #0f86c8c7;
+}
+
+.containerr:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: #fff;
+  font-size: 16px;
+  position: absolute;
+  top: 50%;
+  left: 39%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: left;
+}
+
+.katy {
+  font-size: 22px;
+  font-weight: 700;
+  color: #000000;
+  margin: 10px 0;
+}
+
+.heading-kansas h2 {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.heading-kansas p {
+  font-size: 20px;
+  font-weight: 600;
+  color: #888A8C;
+}
+
+.heading-kansas {
+  margin-top: 50%;
+}
+
+
+/* ------------------------------- About Section four css code close ---------------------------- */
+
+
+
+/* ------------------------------- About Section five css code open ---------------------------- */
+
+.outer-content-ann img {
+  width: 100%;
+}
+
+
+
+
+/* ------------------------------- About Section five css code close ---------------------------- */
+
+
+
+
+/* ------------------------------ Contact Section two css Code open ------------------------------ */
+
+.contact-banner {
+  background-image: url(img/Here-Molly-Girl-1-1-banneer1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+.main-spectrum span {
+  font-size: 15px;
+}
+
+.main-spectrum a {
+  color: #000;
+}
+
+.main-spectrum a:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+h1.form-name {
+  font-size: 20px;
+}
+
+input#fname {
+  width: 100%;
+  height: 35px;
+  border: 1px solid;
+  border-color: #ebebeb;
+  background-color: #f8f8f8;
+}
+
+input#lname {
+  width: 100%;
+  height: 35px;
+  border: 1px solid;
+  border-color: #ebebeb;
+  background-color: #f8f8f8;
+  margin-top: 32px;
+}
+
+label.label-first {
+  font-weight: 700;
+  font-size: .92em;
+  margin: 5px 0;
+}
+
+.main-label-input {
+  margin: 30px 0 10px 0;
+}
+
+textarea#input_2_9 {
+  width: 100%;
+  border: 1px solid;
+  border-color: #ebebeb;
+  background-color: #f8f8f8;
+}
+
+.charleft.ginput_counter.gfield_description {
+  clear: both;
+  font-family: inherit;
+  font-size: 15px;
+  letter-spacing: normal;
+  line-height: inherit;
+  padding-top: 13px;
+  width: 100%;
+}
+
+button#btn-submit {
+  background-color: #0F86C8;
+  color: #fff;
+  border-color: #050037;
+  font-size: 14px;
+  padding: 7px 22px;
+  border: none;
+  margin-top: 20px;
+  transition: all .4s ease-in-out;
+}
+
+button#btn-submit:hover {
+  background-color: black;
+  color: #fff;
+  border-color: #050037;
+  font-size: 14px;
+  padding: 7px 22px;
+  border: none;
+}
+
+/* ------------------------------ Contact Section two css Code close------------------------------ */
+
+
+
+
+/* ------------------------------ media Section 1 css Code open ------------------------------ */
+
+
+.media-bannner {
+  background-image: url(img/screencapture-hmg23333.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+}
+
+.section-blue {
+  background-color: #0f86c845;
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+
+
+/* ------------------------------ media Section 1 css Code close ------------------------------ */
+
+
+
+
+
+/* ------------------------------ media Section 2 css Code open ------------------------------ */
+
+
+section.sect-media1 {
+  padding: 100px 0;
+}
+
+h2.strategic {
+  font-size: 44px;
+  font-weight: 700;
+  color: black;
+  line-height: 60px;
+  margin-top: 50px;
+}
+
+.col-md-5.molly-align {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+/* ------------------------------ media Section 2 css Code close ------------------------------ */
+
+
+
+
+/* ------------------------------ media Section 3 css Code open ------------------------------ */
+
+.heading-strategy h4 {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.strategy-line {
+  width: 98%;
+  border: 1px solid #0F86C8;
+  margin-top: 10px;
+}
+
+section.sect-media {
+  margin: 25px 0;
+}
+
+/* ------------------------------ media Section 3 css Code close ------------------------------ */
+
+
+
+
+
+
+/* ------------------------------ media Section 4 css Code open ------------------------------ */
+
+
+a.deeper {
+  font-size: 20px;
+  background-color: #0F86C8;
+  border-color: #fff;
+  color: #fff;
+  border-style: none;
+  transition: all .4s ease-in-out;
+  padding: 10px 12px;
+}
+
+a.deeper:hover {
+  font-size: 20px;
+  background-color: black;
+  border-color: #fff;
+  color: #fff;
+  border-style: none;
+  transition: all .4s ease-in-out;
+  padding: 10px 12px;
+  text-decoration: none;
+}
+
+.btn33 {
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+
+
+/* ------------------------------ media Section 4 css Code close ------------------------------ */
+
+
+/* ------------------------------ media Section 5 css Code open ------------------------------ */
+.consttt {
+  max-width: 1350px;
+
+}
+
+.inner-imgggggg {
+  background-image: url(img/Opelika-City-Schools-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 300px;
+  padding-bottom: 25px;
+  transition: 0.5s;
+}
+
+.inner-imgggggg:hover {
+  transform: scale(1.1);
+}
+
+
+.inner-imgg2 {
+  background-image: url(img/The-Hotel-at-Auburn-University-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 300px;
+  padding-bottom: 25px;
+  transition: 0.5s;
+}
+
+.inner-imgg2:hover {
+  transform: scale(1.1);
+}
+
+.inner-imggg3 {
+  background-image: url(img/Storybook-Farm-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 300px;
+  padding-bottom: 25px;
+  transition: 0.5s;
+}
+
+.inner-imggg3:hover {
+  transform: scale(1.1);
+}
+
+.inner-imgggg4 {
+  background-image: url(img/Moores-Mill-Animal-Hospital-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 300px;
+  padding-bottom: 25px;
+  transition: 0.5s;
+}
+
+.inner-imgggg4:hover {
+  transform: scale(1.1);
+}
+
+.inner-imgggg5 {
+  background-image: url(img/Auburn-Arboretum-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 300px;
+  padding-bottom: 25px;
+  transition: 0.5s;
+}
+
+.inner-imgggg5:hover {
+  transform: scale(1.1);
+}
+
+.img-wrapperr {
+  width: 100%;
+  overflow: hidden;
+  margin-top: 15px;
+}
+
+.inner-imgggg6 {
+  background-image: url(img/Auburn-Art-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 300px;
+  padding-bottom: 25px;
+  transition: 0.5s;
+}
+
+.inner-imgggg6:hover {
+  transform: scale(1.1);
+}
+
+.inner-imgggg7 {
+  background-image: url(img/Here-Molly-Girl-3-705x57114.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 300px;
+  padding-bottom: 25px;
+  transition: 0.5s;
+}
+
+.inner-imgggg7:hover {
+  transform: scale(1.1);
+}
+
+.inner-imgggg8 {
+  background-image: url(img/Here-Mollyy-Girl-2-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 300px;
+  padding-bottom: 25px;
+  transition: 0.5s;
+}
+
+.inner-imgggg8:hover {
+  transform: scale(1.1);
+}
+
+section.sect-media3 {
+  margin-top: 100px;
+}
+
+.inner-imgggg9 {
+  background-image: url(img/Hereee-Moolly-Girl-1-2-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 300px;
+  padding-bottom: 25px;
+  transition: 0.5s;
+}
+
+.inner-imgggg9:hover {
+  transform: scale(1.1);
+}
+
+
+/* ------------------------------ media Section 5 css Code close ------------------------------ */
+
+
+
+
+/* ------------------------------ media Section 6 css Code open ------------------------------ */
+
+img.moolly-img4 {
+  width: 100%;
+}
+
+section.sect-media4 {
+  background-color: #0f86c8d4;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-top: 150px;
+}
+
+.upper-forte h4 {
+  font-size: 50px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.upper-forte p {
+  font-size: 16px;
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+h3.heading-business {
+  color: #444;
+  cursor: pointer;
+  padding: 30px 0 0 30px;
+}
+
+p.building-para {
+  padding-left: 30px;
+}
+
+.strategy-linee {
+  width: 100%;
+  border: 1px solid #444;
+  margin-top: 10px;
+}
+
+a.deeperr {
+  font-size: 20px;
+  background-color: black;
+  border-color: #fff;
+  color: #fff;
+  border-style: none;
+  transition: all .4s ease-in-out;
+  padding: 10px 20px;
+}
+
+a.deeperr:hover {
+  font-size: 20px;
+  background-color: #0F86C8;
+  border-color: #fff;
+  color: #fff;
+  border-style: none;
+  transition: all .4s ease-in-out;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/* ------------------------------ media Section 6 css Code close ------------------------------ */
+
+
+
+
+/* ------------------------------ media Section 7 css Code open ------------------------------ */
+
+
+section.sect-media5 {
+  background-color: #0f86c8d4;
+  padding-bottom: 100px;
+
+}
+
+h1.para-few {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+  color: #fff;
+}
+
+/* ------------------------------ media Section 7 css Code close ------------------------------ */
+
+section.sect-media6 {
+  padding: 125px 0;
+}
+
+h2.create-works {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 70px;
+}
+
+h2.create-works span {
+  color: #0F86C8;
+}
+
+p.para-passionate {
+  font-size: 22px;
+  font-weight: 500;
+  color: black;
+}
+
+
+
+
+
+
+
+
+.main-printmaking {
+  /* border: 1px solid; */
+  /* background: #F7F7F7; */
+  align-items: center;
+  text-align: center;
+  padding: 35px 0px;
+  margin-top: -27px;
+}
+
+h2.paintings {
+  font-family: nexa;
+  font-size: 26px;
+}
+
+.item {
+  width: 80%;
+}
+
+a.deeperer {
+  font-size: 20px;
+  background-color: black;
+  border-color: #fff;
+  color: #fff;
+  border-style: none;
+  transition: all .4s ease-in-out;
+  padding: 6px 10px;
+}
+
+
+
+a.deeperer:hover {
+  font-size: 20px;
+  background-color: #0F86C8;
+  border-color: #fff;
+  color: #fff;
+  border-style: none;
+  transition: all .4s ease-in-out;
+  padding: 6px 10px;
+  text-decoration: none;
+}
+
+
+
+/* ------------------------------ Opelika Section 1 css Code open ------------------------------ */
+
+.opelika-banner {
+  background-image: url(img/Opelika-City-Schools-2-1500x630.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+.const-opelika {
+  max-width: 1246px;
+}
+
+/* ------------------------------ Opelika Section 1 css Code close ------------------------------ */
+
+
+/* ------------------------------ Opelika Section 2 css Code open ------------------------------ */
+
+.logo-system p strong {
+  font-size: 18px;
+}
+
+h1.heading-opelika {
+  font-size: 47px;
+  font-weight: 700;
+}
+
+section.sect-opelika1 {
+  margin: 40px 0;
+}
+
+.visit-para a {
+  font-size: 18px;
+  color: black;
+}
+
+.visit-para a:hover {
+  text-decoration: none;
+  color: #00000073;
+}
+
+/* ------------------------------ Opelika Section 2 css Code close ------------------------------ */
+
+
+.img-opelika1 {
+  width: 100%;
+}
+
+/* ------------------------------ Opelika Section 4 css Code open ------------------------------ */
+
+h2.heading-creation {
+  font-size: 28px;
+  margin: auto;
+}
+
+section.sect-opelika2 {
+  margin-top: 100px;
+}
+
+
+.inner-imggg-opelika {
+  background-image: url(img/Advancing-Sight-Network-705x5716768.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 55px;
+  transition: 0.5s;
+}
+
+.inner-imggg-opelika:hover {
+  transform: scale(1.1);
+}
+
+
+.inner-imggg-opelika1 {
+  background-image: url(img/Southern-Shutter-Home-705x5716786.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 55px;
+  transition: 0.5s;
+}
+
+.inner-imggg-opelika1:hover {
+  transform: scale(1.1);
+}
+
+.inner-imggg-opelika2 {
+  background-image: url(img/Roccos-Chicken-Joint-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 55px;
+  transition: 0.5s;
+}
+
+.inner-imggg-opelika2:hover {
+  transform: scale(1.1);
+}
+
+.img-wrapper1 {
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+  margin-top: 50px;
+}
+
+.btn333 {
+  text-align: center;
+}
+
+/* ------------------------------ Opelika Section 4 css Code close ------------------------------ */
+
+
+
+/* ------------------------------ Auburn Section css Code open ------------------------------ */
+
+.auburn-banner {
+  background-image: url(img/Auburn-Art-1-1500x630.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+
+
+
+
+.inner-imggg-opelikaa4 {
+  background-image: url(img/AUHCC-Home2-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 55px;
+  transition: 0.5s;
+}
+
+.inner-imggg-opelikaa4:hover {
+  transform: scale(1.1);
+}
+
+/* ------------------------------ Auburn Section css Code close ------------------------------ */
+
+
+
+
+
+/* ------------------------------ Donald Section css Code open ------------------------------ */
+
+
+.donald-banner {
+  background-image: url(img/Auburn-Arboretum-2-1500x630.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+
+.inner-imggg-donald1 {
+  background-image: url(img/Auburn-United-Methodist-Church-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 55px;
+  transition: 0.5s;
+}
+
+.inner-imggg-donald1:hover {
+  transform: scale(1.1);
+}
+
+.inner-imggg-donald2 {
+  background-image: url(img/The-Flower-Store-Auburn-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 55px;
+  transition: 0.5s;
+}
+
+.inner-imggg-donald2:hover {
+  transform: scale(1.1);
+}
+
+.inner-imggg-donald3 {
+  background-image: url(img/Acuff-Weekley-Group-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 55px;
+  transition: 0.5s;
+}
+
+.inner-imggg-donald3:hover {
+  transform: scale(1.1);
+}
+
+
+/* ------------------------------ landscaping Section  css Code close ------------------------------ */
+
+
+.landscaping-banner {
+  background-image: url(img/RR-Landscaping-1-1500x630.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+img.rr-landscapingg {
+  width: 100%;
+}
+
+
+
+.inner-imggg-landscaping1 {
+  background-image: url(img/Rane-Culinary-Science-Center-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 55px;
+  transition: 0.5s;
+}
+
+.inner-imggg-landscaping1:hover {
+  transform: scale(1.1);
+}
+
+.inner-imggg-landscaping2 {
+  background-image: url(img/Advancing-Sight-Network-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 55px;
+  transition: 0.5s;
+}
+
+.inner-imggg-landscaping2:hover {
+  transform: scale(1.1);
+}
+
+.inner-imggg-landscaping3 {
+  background-image: url(img/Storybook-Farm-705x571.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 55px;
+  transition: 0.5s;
+}
+
+.inner-imggg-landscaping3:hover {
+  transform: scale(1.1);
+}
+
+/* ------------------------------ landscaping Section  css Code close ------------------------------ */
+
+
+
+
+
+/* ------------------------------ flowerStore Section 1 css Code open ------------------------------ */
+
+.flowerStore-banner {
+  background-image: url(img2/TB1_6255-1500x430.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+
+
+
+/* ------------------------------ flowerStore Section 1 css Code close ------------------------------ */
+
+
+
+/* ------------------------------ jule Section css Code open ------------------------------ */
+
+
+.julie-banner {
+  background-image: url(img2/Jule-Collins-Smith-Museum-2-1500x630.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+
+/* ------------------------------ jule Section css Code close ------------------------------ */
+
+
+
+/* ------------------------------ roccos Section css Code open ------------------------------ */
+
+.roccos-banner{
+  background-image: url(img2/Roccos-Chicken-Joint-1-1500x630.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  background-size: cover;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+
+
+/* ------------------------------ roccos Section css Code close ------------------------------ */
+
+
+
+/* ------------------------------ careers Section css Code close ------------------------------ */
+
+.Careers-Banner{
+background-image: url(img2/Here-Molly-Girl-2-1500x430.jpg);
+background-repeat: no-repeat;
+background-position: center;
+width: 100%;
+background-size: cover;
+padding-top: 250px;
+padding-bottom: 250px;
+}
+
+
+h1.heading-opelikaaa {
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+}
+
+ul.list-smart li{
+   padding-bottom: 5px;
+}
+
+section.sect-careers {
+  margin-top: 70px;
+  margin-bottom: 40px;
+}   
+
+button.btn-intern {
+  padding: 8px 16px;
+  font-size: 20px;
+  background-color: #fff;
+  margin-top: 30px;
+  transition: all .4s ease-in-out;
+}
+
+button.btn-intern:hover {
+  padding: 8px 16px;
+  font-size: 20px;
+  background-color: #0F86C8;
+  color: #fff;
+  border: none;
+  transition: all .4s ease-in-out;
+}
+
+
+/* ------------------------------ careers Section css Code close ------------------------------ */
